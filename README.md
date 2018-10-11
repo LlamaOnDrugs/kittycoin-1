@@ -1,8 +1,8 @@
 # kittycoin
 kittycoin is an Open Source ,Secure and Decentralized Cryptocurrency.kittycoin has Tiered/Levelled Masternodes.
 * I am not the creator of this coin but I am replacing what the Developers removed after conducting 
-the presale. Locating and compiling wallet can be found under Release, Block Exlorer has been replaced,
-Discord, Twitter and Website being reestablished as well as the BTT.
+the presale. Located and compiled wallets can be found under Release, Block Explorer has been replaced,
+Discord, Twitter and Website being re-established as well as the BTT.
 
 Basic Dependencies and swap file recomended on your VPS for compiling KittyCoin
 Recomended VPS OS Ubuntu Server 16.04
