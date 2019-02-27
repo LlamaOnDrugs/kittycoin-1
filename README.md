@@ -30,7 +30,7 @@ addnode=172.245.183.185:51473<br/>
 addnode=80.211.81.163:51473<br/>
 addnode=140.82.50.137:51473<br/>
 
-If you wish to use a script to install you can locate one from zoldur, installation:<br/>
-wget https://raw.githubusercontent.com/zoldur/Kittycoin/master/kittycoin_install.sh<br/>
-chmod +x kittycoin_install.sh<br/>
-./kittycoin_install.sh<br/>
+Added an updated install script -
+wget https://github.com/LordSoylent/kittycoin-1/releases/download/v1.0.0.0-60010a/kitty_install.sh<br/>
+chmod +x kitty_install.sh<br/>
+bash kitty_install.sh
