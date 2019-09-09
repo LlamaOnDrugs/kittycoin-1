@@ -53,4 +53,3 @@ script: |
   cd ..
   qmake INCLUDEPATH="$INSTDIR/include" LIBS="-L$INSTDIR/lib" RELEASE=1 USE_QRCODE=1
   make $MAKEOPTS
-  install kittycoind $OUTDIR/bin/$GBUILD_BITS
